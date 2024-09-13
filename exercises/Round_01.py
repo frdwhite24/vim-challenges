@@ -1,3 +1,6 @@
+# NOTE: the starting point of each challenge is in Normal mode on column 0 of the first
+# line of the challenge statement i.e. on the # in "# Challenge 01-1"
+
 # Challenge 01-1: Put your cursor on the second "p" in "properly"
 # This function turns coffee into code, but only if you're properly caffeinated!
 
@@ -64,7 +67,9 @@ def calculate_discount(price, discount):
 
 print(calculate_discount(100, 20))  # Output: 80
 
-# Challenge 01-7: Add a comma (,) to the end of each line of this poem, apart from the last one
+# Challenge 01-7: Add a comma (,) to the end of each line of this poem, apart
+# from the last one
+
 # In the realm of code we dive  
 # Variables and loops come alive  
 # Functions call, and bugs appear  

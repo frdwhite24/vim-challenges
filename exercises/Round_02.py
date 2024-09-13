@@ -1,3 +1,6 @@
+# NOTE: the starting point of each challenge is in Normal mode on column 0 of the first
+# line of the challenge statement i.e. on the # in "# Challenge 02-1"
+
 # Challenge 02-1: Remove "_var" from all of the variable names
 def sum_positive_numbers(numbers_var):
     """
@@ -27,16 +30,16 @@ count_vowels("Cats enjoy sunny windows.")
 
 # Challenge 02-4: Move your cursor to the previous occurrence of "sum" in this file
 
-# Challenge 02-5: Using a substitute replace command to replace all "term" occurrences with "word"
-# Hint: the span of lines to apply this to is 33-35
+# Challenge 02-5: Using a substitute replace command to replace all "term"
+# occurrences with "word". Hint: the span of lines to apply this to is 35-37
 def create_message(term):
     message = f"In the world of {term}, the term {term} holds special significance. Understanding {term} is crucial for success."
     return message
 
 print(create_message("innovation"))
 
-# Challenge 02-6: Replace all "Boban"s with "Enxhell"s in the block below in a case insensitive way
-# Note: we don't want to replace Bobanita, she's fine.
+# Challenge 02-6: Replace all "Boban"s with "Enxhell"s in the block below in a
+# case insensitive way. Note: we don't want to replace Bobanita, she's fine.
 
 # Boban is a plucky young Albanian, not like Bobanita.
 # She'd say: "That boban, he's a real card".
