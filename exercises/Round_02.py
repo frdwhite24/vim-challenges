@@ -30,7 +30,7 @@ count_vowels("Cats enjoy sunny windows.")
 
 # Challenge 02-4: Move your cursor to the previous occurrence of "sum" in this file
 
-# Challenge 02-5: Using a substitute replace command to replace all "term"
+# Challenge 02-5: Use a substitute replace command to replace all "term"
 # occurrences with "word". Hint: the span of lines to apply this to is 35-37
 def create_message(term):
     message = f"In the world of {term}, the term {term} holds special significance. Understanding {term} is crucial for success."
